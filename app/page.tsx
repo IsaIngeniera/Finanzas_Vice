@@ -54,10 +54,13 @@ export default function HomePage() {
       <section className="relative overflow-hidden bg-gradient-to-br from-pink-100 via-purple-100 to-blue-100 py-20 sm:py-32">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center space-y-8">
-            {/* Logo placeholder - user will add their logo */}
             <div className="flex justify-center mb-8">
-              <div className="w-32 h-32 bg-white rounded-full shadow-lg flex items-center justify-center">
-                <span className="text-4xl font-bold text-primary">P</span>
+              <div className="w-40 h-40 bg-white rounded-full shadow-2xl flex items-center justify-center p-8">
+                <img
+                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-0fEjJWMtBfuXTsBWONYrkqiyTkI1VT.png"
+                  alt="Partners Logo"
+                  className="w-full h-full object-contain"
+                />
               </div>
             </div>
 

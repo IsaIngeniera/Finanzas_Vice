@@ -22,7 +22,7 @@ export default function EstructuraOrganizacion() {
           contactar: "Sí",
         },
         {
-          proveedor: "Audiovisuales Pro",
+          proveedor: "Materiales para las bases",
           productos: "Equipos de sonido",
           experiencia: "Buena calidad",
           contactar: "Quizá",
@@ -35,7 +35,7 @@ export default function EstructuraOrganizacion() {
       color: "from-green-100 to-green-200",
       proveedores: [
         {
-          proveedor: "Hotel Centro",
+          proveedor: "Proveedores de refrigerios",
           productos: "Salones, hospedaje",
           experiencia: "Instalaciones modernas",
           contactar: "Sí",
